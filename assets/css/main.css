@@ -3900,7 +3900,6 @@ body.is-preload #header.alt .logo {
   width: 20em;
   height: 22em;
   position: relative;
-  border-radius: 10px !important;
   border: 2px solid transparent;
 }
 
