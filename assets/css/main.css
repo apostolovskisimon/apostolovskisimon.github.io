@@ -3937,6 +3937,10 @@ body.is-preload #header.alt .logo {
 .pr6 {
   background-image: url("../../images/bikes.png");
 }
+
+.pr7 {
+  background-image: url("../../images/mern.png");
+}
 .pr-title {
   position: absolute;
   top: 0;
