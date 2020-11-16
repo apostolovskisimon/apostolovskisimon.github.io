@@ -3888,7 +3888,7 @@ body.is-preload #header.alt .logo {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .projectPic,
@@ -3901,7 +3901,8 @@ body.is-preload #header.alt .logo {
   height: 22em;
   border-radius: 10px !important;
   position: relative;
-  border: 2px solid transparent;
+  border: 2px solid black;
+  margin-bottom: 25px;
 }
 
 .projectPic:hover,
@@ -3940,6 +3941,10 @@ body.is-preload #header.alt .logo {
 
 .pr7 {
   background-image: url("../../images/mern.png");
+}
+
+.pr8 {
+  background-image: url("../../images/hackathon.png");
 }
 .pr-title {
   position: absolute;
